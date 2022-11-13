@@ -10,7 +10,6 @@ const corsServer = corsAnywhere.createServer({
     "https://www.restoredtemecula.com",
     "https://restoredtemecula.church",
     "https://restoredtemecula.com",
-    "https://portfolio-ravenous.firebaseapp.com",
   ],
   requireHeader: ["origin", "x-requested-with"],
   removeHeaders: ["cookie", "cookie2"],
