@@ -15,7 +15,9 @@
   "dependencies": {
     "cors-anywhere": "^0.4.4",
     "firebase-admin": "^11.0.1",
-    "firebase-functions": "^4.0.1"
+    "firebase-functions": "^4.0.1",
+    "lts": "^1.2.0",
+    "n": "^9.0.1"
   },
   "devDependencies": {
     "firebase-functions-test": "^0.2.0"
