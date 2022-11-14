@@ -6,6 +6,7 @@ const corsServer = corsAnywhere.createServer({
   originWhitelist: [
     "http://localhost:3000",
     "http://localhost:5000",
+    "http://localhost:8080",
     "https://www.restoredtemecula.church",
     "https://www.restoredtemecula.com",
     "https://restoredtemecula.church",
